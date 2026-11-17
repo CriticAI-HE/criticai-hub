@@ -20,3 +20,11 @@ views:
         - file.name != "index"
     order:
       - file.name
+  - type: cards
+    name: References
+    filters:
+      and:
+        - file.folder.contains("references")
+        - file.name != "index"
+    order:
+      - file.name
