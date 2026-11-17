@@ -11,7 +11,7 @@ tags:
   - teaching
   - education
 causes:
-  - teaching
+  - "[[Education]]"
 ---
 ## Summary
 
