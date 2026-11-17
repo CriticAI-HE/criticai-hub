@@ -15,6 +15,10 @@
     {
       "folderPath": "vault/actions",
       "templateName": "Actions Template"
+    },
+    {
+      "folderPath": "vault/concerns",
+      "templateName": "Concerns Template"
     }
   ],
   "disablePrompt": false,
