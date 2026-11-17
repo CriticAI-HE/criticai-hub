@@ -9,7 +9,7 @@ type: protest
 tags:
   - data-centers
   - climate-justice
-  - labour
+  - AI-rejection
 causes:
   - "[[Labour]]"
   - "[[Environmental]]"

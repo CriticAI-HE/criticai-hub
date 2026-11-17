@@ -10,6 +10,8 @@ type:
 tags:
   - teaching
   - education
+causes:
+  - teaching
 ---
 ## Summary
 
@@ -33,7 +35,6 @@ From https://www.officeforstudents.org.uk/publications/making-ai-work-for-studen
 > ==Whether AI improves or weakens learning depends on how it is used. Used critically and carefully, it can help students identify gaps in their understanding and engage with learning in ways that cater to their needs and circumstances.== There is headroom for institutions to further exploit these benefits. However, ==using AI to replace reading, research, problem-solving or other challenging tasks – often called ‘cognitive offloading’ – can circumvent the productive struggle needed to develop knowledge and skills.==
 > 
 > Effective institutional practice in this area is likely to include considering whether and how the integration of AI tools across different courses can support teaching and learning; assuring the quality of AI-supported teaching materials and feedback; and communicating clearly to students where and how AI has been used in the process of developing them.
-> 
 > 	
 > ### Assessment
 > 
@@ -41,7 +42,7 @@ From https://www.officeforstudents.org.uk/publications/making-ai-work-for-studen
 > 
 > Approaches to assessments vary widely. While many institutions have introduced AI policies, students are frequently unclear about whether and how they are permitted to use AI in assessed work, and it is usually not possible to conclusively establish whether a student has adhered to their institution’s AI policy. Some institutions have redesigned assessments to reduce their susceptibility to AI use, including through increased use of closed-book exams, presentations and other assessments that take place in controlled environments.
 > 
-> ==Institutions should develop accessible and robust approaches to assessment, which effectively assure student achievement. ==Secure approaches designed to prevent students from using AI will often be the most effective as they provide a high degree of confidence that students are demonstrating their own knowledge and skills. The use of innovative assessment approaches that reflect the ‘real world’ application of students’ knowledge and responsibly integrate AI will often be positive, but these require thoughtful design to ensure they do not compromise the validity and reliability of assessments as a measure of students’ knowledge and skills.
+> ==Institutions should develop accessible and robust approaches to assessment, which effectively assure student achievement.== Secure approaches designed to prevent students from using AI will often be the most effective as they provide a high degree of confidence that students are demonstrating their own knowledge and skills. The use of innovative assessment approaches that reflect the ‘real world’ application of students’ knowledge and responsibly integrate AI will often be positive, but these require thoughtful design to ensure they do not compromise the validity and reliability of assessments as a measure of students’ knowledge and skills.
 > 
 > ### AI literacy and skills
 > 

@@ -4,6 +4,8 @@ organiser:
 causes:
   - "[[security]]"
   - "[[IP]]"
+tags:
+  - AI-rejection
 ---
 A repository listing software that rejects using AI in its development.
 
