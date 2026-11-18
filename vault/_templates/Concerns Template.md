@@ -1,8 +1,5 @@
 
-## Actions
-![[Concerns base template.base#Actions]]
-
-## Organisations
-![[Concerns base template.base#Organisations]]
+## Related content
+![[Concerns base template.base]]
 
 ## References
