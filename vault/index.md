@@ -7,7 +7,7 @@ title: Welcome to CriticAI 👋
 
 This site aims to be a collaborative hub about different types of resources about AI usage in Universities. It serves these purposes:
 
-1. Map actors and [[actions]]
+1. Map [[actors]] and [[actions]]
 
 
 
