@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ccamara.github.io/quartz-experiment/
+  baseUrl: criticai-he.github.io/criticai-hub/
   ignorePatterns:
     - private
     - templates
